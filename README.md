@@ -61,13 +61,6 @@ The following Python libraries were used in this project:
 
 ---
 
-## 📈 Example of Visualizations
-
-Below are some of the visualizations generated during the project:
-
-- **Distribution of Player Heights**:
-  ![Player Heights Distribution](path_to_image.png)# RUGBY_PLAYER_STATS
-
 ## 📄 Project Overview
 
 **RUGBY_PLAYER_STATS** is a data analysis project focused on exploring and visualizing the statistics of the best rugby players for the 2023-2024 season. This project includes data cleaning, statistical analysis, and insightful visualizations to uncover patterns and trends in player performance.
@@ -137,10 +130,10 @@ Below are some of the visualizations generated during the project:
   ![Player Heights Distribution](https://github.com/charlesdaigre/RUGBY_PLAYER_STATS/blob/main/Player%20Heights%20Distribution.png)
 
 - **Position Breakdown (Pie Chart)**:
-  ![Position Breakdown](C:\Users\Charles\Documents\GitHub\RUGBY_PLAYER_STATS\Position Breakdown.png)
+  ![Position Breakdown](https://github.com/charlesdaigre/RUGBY_PLAYER_STATS/blob/main/Position%20Breakdown.png)
 
 - **Confusion Matrix for Classification**:
-  ![Confusion Matrix](C:\Users\Charles\Documents\GitHub\RUGBY_PLAYER_STATS\Confusion Matrix.png)
+  ![Confusion Matrix](https://github.com/charlesdaigre/RUGBY_PLAYER_STATS/blob/main/Confusion%20Matrix.png)
 
 ---
 
