@@ -142,17 +142,4 @@ Below are some of the visualizations generated during the project:
 This project provides a detailed analysis of rugby players' statistics and uses machine learning to predict player positions. The insights gained can help in understanding the relationship between physical attributes and player positions, as well as the overall impact of performance metrics on rankings.
 
 
-- **Position Breakdown (Pie Chart)**:
-  ![Position Breakdown](path_to_image.png)
-
-- **Confusion Matrix for Classification**:
-  ![Confusion Matrix](path_to_image.png)
-
----
-
-## 📝 Conclusion
-
-This project provides a detailed analysis of rugby players' statistics and uses machine learning to predict player positions. The insights gained can help in understanding the relationship between physical attributes and player positions, as well as the overall impact of performance metrics on rankings.
-
-
 
