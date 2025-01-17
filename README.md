@@ -134,7 +134,7 @@ The following Python libraries were used in this project:
 Below are some of the visualizations generated during the project:
 
 - **Distribution of Player Heights**:
-  ![Player Heights Distribution](C:\Users\Charles\Documents\GitHub\RUGBY_PLAYER_STATS\Player Heights Distribution.png)
+  ![Player Heights Distribution](https://github.com/charlesdaigre/RUGBY_PLAYER_STATS/blob/main/Player%20Heights%20Distribution.png)
 
 - **Position Breakdown (Pie Chart)**:
   ![Position Breakdown](C:\Users\Charles\Documents\GitHub\RUGBY_PLAYER_STATS\Position Breakdown.png)
